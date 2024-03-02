@@ -1,0 +1,578 @@
+
+
+
+#perflow > h1 {
+    font-size: 30px;
+    position: absolute;
+    left: 10%;
+    top: -8%;
+    color: #481d73;
+    font-family: 'minha-segunda-fonte';
+}
+
+#perflow > h2 {
+    position: absolute;
+    font-size: 25px;
+    color: #481d73;
+    font-family: 'minha-segunda-fonte';
+    left: 10%;
+}
+
+section#perflow {
+    position: absolute;
+    bottom: -579%;
+}
+#perflow > p {
+    font-family: 'minha-segunda-fonte';
+    text-align: justify;
+    font-size: 17px;
+    position: relative;
+    bottom: -100px;
+    color: #481d73;
+    margin: 36px 137px -62px;
+    font-weight: 700;
+}
+
+#perflow > img {
+    width: 56%;
+    position: relative;
+    top: 169px;
+    left: 35%;
+}
+
+/*rodapé*/
+body > article > main > footer > div:nth-child(2) > p:nth-child(2) {
+    font-family: 'minha-segunda-fonte';
+    color: #fff;
+    cursor: pointer;
+}
+body > article > main > footer > div:nth-child(2) > p:nth-child(2):hover {
+    text-decoration: underline;
+}
+body > article > main > footer > div:nth-child(2) > p:nth-child(3) {
+    font-family: 'minha-segunda-fonte';
+    color: #fff;
+    cursor: pointer;
+}
+body > article > main > footer > div:nth-child(2) > p:nth-child(3):hover {
+    text-decoration: underline;
+
+}
+strong {
+    color: #fff;
+    font-family: 'minha-segunda-fonte';
+    font-size: 18px;
+    font-weight: normal;
+}
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: -760%;
+    height: 38%;
+    background-color: #644285;
+}
+body > article > main > footer > div:nth-child(1) > img {
+    height: 50px;
+    margin-top: 29px;
+    left: 4px !important;
+    position: relative;
+}
+body > article > main > footer > div:nth-child(1) > p {
+    font-family: 'minha-segunda-fonte';
+    position: absolute;
+    left: 4%;
+    color: #fff;
+}
+body > article > main > footer > div:nth-child(2) {
+    position: absolute;
+    right: 5px;
+}
+
+/*equipe*/
+section#title-equipe {
+    position: absolute;
+    bottom: -651% !important;
+}
+#title-equipe > h1 {
+    position: relative;
+    left: 28%;
+    color: rgb(72, 29, 115);
+    font-size: 30px;
+}
+section#equipe {
+    position: absolute;
+    bottom: -632%;
+}
+
+section#thiago-diniz {
+    position: absolute;
+    bottom: -682%;
+}
+#thiago-diniz > h1 {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+}
+#thiago-diniz > img {
+    position: relative;
+    height: 144px;
+    top: 69px;
+    left: 20px;
+}
+#thiago-diniz > p {
+    position: relative;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'minha-segunda-fonte';
+    margin: 35px 137px 0px;
+    font-weight: 700;
+    color: rgb(72, 29, 115);
+    top: -65px;
+}
+
+section#juliana-diniz{
+    position: absolute;
+}
+#juliana-diniz > h1 {
+    position: absolute;
+    left: 10%;
+    top: 6%;
+}
+#juliana-diniz > p {
+    position: relative;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    font-family: 'minha-segunda-fonte';
+    color: rgb(72, 29, 115);
+    margin: 35px 137px 154px;
+    top: -100px;
+}
+/*quem-somos*/
+section#quem-somos{
+position: absolute;
+    bottom: -109%;
+}
+#quem-somos > p{
+        position: absolute;
+    font-size: 50px;
+    left: 10%;
+    color: #481d73;
+}
+#quem-somos > h2 {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    text-align: justify;
+    justify-content: flex-start;
+    margin: 35px 137px 154px;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+
+
+/*equipe*/
+#equipe h1 {
+    position: absolute;
+    font-size: 30px;
+    left: 10%;
+    color: #481d73;
+}
+
+#equipe > p {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    text-align: justify;
+    justify-content: flex-start;
+    margin: 35px 137px 154px;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+
+ /*saúde-integral*/
+ #saude-integral > img:nth-child(5) {
+    position: absolute;
+    left: 60%;
+}
+ #saude-integral > img:nth-child(3) {
+    position: absolute;
+    left: 40%;
+}
+ #saude-integral > img {
+    position: absolute;
+    align-content: center;
+    left: 50%;
+}
+ section#saude-integral {
+    position: absolute;
+    bottom: -480%;
+}
+#saude-integral h1 {
+    position: absolute;
+    font-size: 30px;
+    left: 10%;
+    color: #481d73;
+}
+
+#saude-integral > p {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    text-align: justify;
+    justify-content: flex-start;
+    margin: 36px 137px 154px;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+
+  
+ /*aprendizagem-integral*/
+
+ #aprendizagem-integral > img {
+    width: 446px;
+    position: absolute;
+    display: block;
+    right: 177px;
+    transition: transform 0.5s ease-in-out;
+
+}
+ section#aprendizagem-integral {
+    position: absolute;
+    bottom: -380%;
+}
+
+#aprendizagem-integral h1 {
+    position: absolute;
+    font-size: 30px;
+    left: 10%;
+    color: #481d73;
+}
+
+#aprendizagem-integral > p {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    justify-content: flex-start;
+    text-align: justify;
+    margin: 36px 137px 151px;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+
+ /*metodologia*/
+ #metodologia > img:nth-child(3) {
+    position: absolute;
+    bottom: -90%;
+    left: 50%;
+}
+
+#metodologia > img:nth-child(4) {
+    position: absolute;
+    bottom: -90%;
+    left: 40%;
+}
+
+#metodologia > img:nth-child(5) {
+    position: absolute;
+    bottom: -90%;
+    left: 60%;
+}
+ section#metodologia {
+    position: absolute;
+    bottom: -280%;
+}
+
+#metodologia h1{
+    position: absolute;
+    font-size: 50px;
+    left: 10%;
+    color: #481d73;
+}
+#metodologia > p {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    justify-content: flex-start;
+    text-align: justify;
+    margin: 36px 137px;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+ 
+ 
+ 
+ 
+ 
+ /*ABA SOLUÇÕES*/
+
+ #solucoes h1{
+    position: absolute;
+    font-size: 50px;
+    left: 10%;
+    color: #481d73;
+}
+section#solucoes {
+    position: absolute;
+    bottom: -194%;
+}
+#solucoes > p {
+    position: relative;
+    font-size: 17px;
+    bottom: -93px !important;
+    justify-content: flex-start;
+    margin: 36px 137px 115px;
+    text-align: justify;
+    font-weight: 700;
+    align-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+}
+#solucoes > img :hover{
+    transition: transform 0.5s ease-in-out;
+}
+#solucoes > img {
+    width: 446px;
+    position: absolute;
+    display: block;
+    right: 51px;
+    transition: transform 0.5s ease-in-out;
+
+}
+.button1 {
+    position: absolute;
+    font-family: 'minha-segunda-fonte';
+    bottom: -407px !important;
+    margin: 0px 120px -12px;
+    cursor:pointer;
+}
+
+h4 {
+    position: absolute;
+    right: -479px !important;
+}
+@media (min-width:1200px) and (max-width:1919px){
+}
+.text {
+    font-size: 26px;
+    font-family: 'Open Sans';
+    font-weight: bolder;
+    color: #4b1c71;
+}
+
+span.text:hover {
+    color: #4b1c71;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+header.fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+*{
+    font-family: 'minhafonte', 'minha-segunda-fonte', 'Open Sans';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+
+body {
+    background-color: #fff0ff;
+}
+
+body > header > nav > ul > a:nth-child(1):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+
+body > header > nav > ul > a:nth-child(2):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+body > header > nav > ul > a:nth-child(3):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+body > header > nav > ul > a:nth-child(4):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+body > header > nav > ul > a:nth-child(5):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+body > header > nav > ul > a:nth-child(1):hover {
+    color: #fff0ff;
+    font-weight: bolder;
+    text-decoration: underline;
+} 
+.menu-icon {
+    font-size: 1.5em;
+    cursor: pointer;
+    display: none; /* Esconde por padrão em telas maiores */
+  }
+  
+  .menu {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu li {
+    margin-right: 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: white;
+  }
+        /*logo da header*/
+        body > header > img {
+            position: absolute;
+            top: 0px;
+            height: 110px;
+            left: 50px;
+            z-index: 1;
+        }
+        /*Menu header*/
+        body > header > nav > ul {
+    font-size: 12px;
+    position: absolute;
+    right: 181px;
+    top: 110px;
+    z-index: 1;
+    }
+        /*Palavras do menu*/
+        a {
+    justify-content: space-between;
+    color: #fff0ff;
+    display: inline-flex;
+    margin-right: 20px;
+    text-transform: initial;
+    text-decoration: none;
+        }
+        /*cor da header*/
+        header {
+            background-color: #4b1c71;
+            height: 129px;
+        }
+       /*redes*/ 
+        #redes {
+    position: absolute;
+    bottom: 491px;
+    right: 6px;
+    z-index: 1;
+    top: -44px;
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+
+#redes > a:nth-child(3) {
+    position: absolute;
+    right: 18px;
+    top: 141px;
+    height: 27px;
+}
+
+#redes > a:nth-child(1) > img {
+    position: absolute;
+    right: 91px;
+    top: 139px;
+    height: 33px;
+}
+
+#redes > a:nth-child(2) > img {
+    left: -56px;
+    position: absolute;
+    top: 143px;
+    height: 25px;
+}
+
+/*redes*/
+
+/*texto home*/
+
+    div#text-home:hover {
+    text-decoration: none;
+    text-transform: none;
+    font-weight: none;
+    }
+    div#text-home {
+    left: 50px;
+    bottom: 100px;
+    font-size: 50px;
+    color: #fff0ff;
+    position: absolute;
+    }
+    #text-home > h1:nth-child(5) {
+    font-size: 15px;
+    border-radius: 40px;
+    color: #ffffff;
+    font-weight: normal;
+    text-decoration: none;
+    color: white;
+    background-color: #0a0a0a;
+    text-align: center;
+    display: block;
+    padding: 9px 0;
+}
+/*texto home*/
+
+    body > header > a > img {
+    width: 101%;
+    top: 170px;
+    right: 1px;
+    position: fixed;
+    }   
+
+@font-face {
+    font-family:'minhafonte';
+    src:url("body-text-large-regular.ttf");
+}
+
+@font-face {
+    font-family:'minha-segunda-fonte';
+    src:url("glacial-indifference.ttf");
+}
+#img1 > img{
+    width: 100%;
+    top: 127px;
+    position: absolute;
+    background-color: #4b1c71;
+}
+#button > h1 {
+    bottom: 90px;
+    left: 55px;
+    POSITION: ABSOLUTE;
+    font-size: 12px;
+    border: solid 1px;
+    padding: 17px 33px;
+    color: #fff0ff;
+    margin: 0px;
+}
+body{
+background-color: #f2e9f2;
+}
+html, body {
+    scroll-behavior: smooth;
+  }

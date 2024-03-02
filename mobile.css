@@ -1,0 +1,213 @@
+@media screen and (max-width:480px){
+    div#text-home {
+        left: 6px !important;
+        font-size: 24px !important;
+        top: 35% !important;
+    }  
+    body > header > img {
+        position: absolute;
+        top: 7px !important;
+        height: 101px !important;
+        left: 5px !important;
+        z-index: 1;
+    }
+    #img2 > img {
+        display: none !important;
+    }
+    #quem-somos > p {
+        font-size: 23px !important;
+        left: 20% !important;
+    }
+    section#quem-somos {
+    position: absolute;
+    bottom: 5% !important;
+}
+div#texto2 {
+    bottom: -12px !important;
+    left: 8% !important;
+    font-size: 17px !important;
+}
+
+#quem-somos > h2 {
+    font-size: 12px !important;
+    bottom: -17px !important;
+    justify-content: center;
+    color: rgb(72, 29, 115);
+    font-family: 'minha-segunda-fonte';
+    left: 10px !important;
+    margin: 19px !important;
+}
+#texto2 > img {
+    position: absolute;
+    top: -6px;
+    height: 31px !important;
+}
+body > header > nav > ul {
+    display: none !important;
+
+}
+
+section#solucoes {
+    position: absolute;
+    bottom: -45% !important;
+}
+#solucoes > img {
+    width: 303px !important;
+    right: 43px !important;
+    bottom: -106% !important;
+}
+#solucoes h1 {
+    position: absolute;
+    font-size: 23px !important;
+    left: 20% !important;
+    color: #481d73;
+}
+#solucoes > p {
+    font-size: 14px !important;
+    bottom: -55px !important;
+    margin: 19px !important;
+    font-family: 'minha-segunda-fonte';
+}
+section#metodologia {
+    position: absolute;
+    bottom: -115% !important;
+}
+#metodologia > p {
+    font-size: 12px !important;
+    bottom: -43px !important;
+    justify-content: flex-start;
+    margin: 19px !important;
+}
+#metodologia h1 {
+    position: absolute;
+    font-size: 23px !important;
+    left: 20% !important;
+    color: #481d73;
+}
+#metodologia > img:nth-child(5) {
+    position: absolute;
+    bottom: -90%;
+    left: 69%;
+}
+#metodologia > img:nth-child(4) {
+    position: absolute;
+    bottom: -90%;
+    left: 12%;
+}
+#metodologia > img:nth-child(3) {
+    position: absolute;
+    bottom: -90%;
+    left: 40%;
+}
+
+#aprendizagem-integral > img {
+    width: 285px !important;
+    right: 55px !important;
+    top: 134% !important;
+}
+section#aprendizagem-integral {
+    position: absolute;
+    bottom: -176% !important;
+}
+#aprendizagem-integral > p {
+    position: relative;
+    font-size: 12px !important;
+    bottom: -36px !important;
+    justify-content: flex-start;
+    margin: 19px !important;
+    left: 5px !important;
+}
+#saude-integral > img:nth-child(5) {
+    position: absolute;
+    left: 59%;
+}
+#saude-integral > img {
+    position: absolute;
+    align-content: center;
+    left: 35%;
+    bottom: -68%;
+}
+#saude-integral > img:nth-child(3) {
+    position: absolute;
+    left: 10%;
+    bottom: -70%;
+}
+section#saude-integral {
+    position: absolute;
+    bottom: -248%;
+}
+#saude-integral h1 {
+    position: absolute;
+    font-size: 13px;
+    left: 7%;
+    color: #481d73;
+}
+#saude-integral > p {
+    position: relative;
+    font-size: 12px;
+    bottom: -38px !important;
+    justify-content: flex-start;
+    margin: 19px;
+}
+#equipe > p {
+    position: relative;
+    font-size: 12px;
+    bottom: -75px !important;
+    justify-content: flex-start;
+    margin: 19px;
+}
+section#equipe {
+    position: absolute;
+    bottom: -306%;
+}
+#equipe h1 {
+    position: absolute;
+    font-size: 23px;
+    left: 13%;
+    color: #481d73;
+}
+section#thiago-diniz {
+    position: absolute;
+    bottom: -382%;
+}
+#thiago-diniz > img {
+    position: relative;
+    height: 101px;
+    top: 2px;
+    left: 20px;
+}
+#thiago-diniz > h1 {
+    position: absolute;
+    left: 26%;
+    top: 9%;
+}
+#thiago-diniz > p {
+    position: relative;
+    font-size: 12px;
+    font-family: 'minha-segunda-fonte';
+    margin: 19px;
+    font-weight: 700;
+    color: rgb(72, 29, 115);
+    top: -30px;
+}
+#juliana-diniz > img {
+    height: 101px;
+    position: relative;
+    top: 2px;
+    left: 20px;
+}
+#juliana-diniz > h1 {
+    position: absolute;
+    left: 30%;
+    top: 6%;
+}
+#juliana-diniz > p {
+    position: relative;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'minha-segunda-fonte';
+    color: rgb(72, 29, 115);
+    margin: 19px;
+    top: -16px;
+}
+}
