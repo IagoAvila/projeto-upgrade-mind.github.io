@@ -1,4 +1,11 @@
 @media screen and (max-width:480px){
+
+
+    
+#header {
+    width: 128% !important;
+}
+    
     div#text-home {
         left: 6px !important;
         font-size: 24px !important;
@@ -11,17 +18,20 @@
         left: 5px !important;
         z-index: 1;
     }
+    #img1 > img {
+        width: 128% !important;
+    }
     #img2 > img {
         display: none !important;
     }
     #quem-somos > p {
         font-size: 23px !important;
-        left: 20% !important;
+        left: 40%;
     }
     section#quem-somos {
-    position: absolute;
-    bottom: 5% !important;
-}
+        position: absolute;
+        bottom: -5% !important;
+    }
 div#texto2 {
     bottom: -12px !important;
     left: 8% !important;
@@ -30,17 +40,15 @@ div#texto2 {
 
 #quem-somos > h2 {
     font-size: 12px !important;
-    bottom: -17px !important;
+    bottom: -48px !important;
     justify-content: center;
     color: rgb(72, 29, 115);
     font-family: 'minha-segunda-fonte';
-    left: 10px !important;
+    left: 50px !important;
     margin: 19px !important;
 }
 #texto2 > img {
-    position: absolute;
-    top: -6px;
-    height: 31px !important;
+    display: none !important;
 }
 body > header > nav > ul {
     display: none !important;
@@ -49,65 +57,75 @@ body > header > nav > ul {
 
 section#solucoes {
     position: absolute;
-    bottom: -45% !important;
+    bottom: -60% !important;
 }
 #solucoes > img {
-    width: 303px !important;
-    right: 43px !important;
+    width: 285px !important;
+    right: 0px !important;
     bottom: -106% !important;
 }
 #solucoes h1 {
     position: absolute;
     font-size: 23px !important;
-    left: 20% !important;
+    left: 40% !important;
     color: #481d73;
 }
 #solucoes > p {
     font-size: 14px !important;
-    bottom: -55px !important;
+    bottom: -43px !important;
     margin: 19px !important;
     font-family: 'minha-segunda-fonte';
+    text-align: justify;
+    left: 50px;
 }
 section#metodologia {
     position: absolute;
-    bottom: -115% !important;
+    bottom: -132% !important;
 }
 #metodologia > p {
     font-size: 12px !important;
     bottom: -43px !important;
     justify-content: flex-start;
     margin: 19px !important;
+    text-align: justify;
+    left: 50px;
 }
 #metodologia h1 {
     position: absolute;
     font-size: 23px !important;
-    left: 20% !important;
+    left: 35% !important;
     color: #481d73;
 }
 #metodologia > img:nth-child(5) {
     position: absolute;
     bottom: -90%;
-    left: 69%;
+    left: 80%;
 }
 #metodologia > img:nth-child(4) {
     position: absolute;
     bottom: -90%;
-    left: 12%;
+    left: 20%;
 }
 #metodologia > img:nth-child(3) {
     position: absolute;
     bottom: -90%;
-    left: 40%;
+    left: 50%;
 }
-
 #aprendizagem-integral > img {
     width: 285px !important;
-    right: 55px !important;
-    top: 134% !important;
+    right: 3px !important;
+    top: 140% !important;
 }
 section#aprendizagem-integral {
     position: absolute;
-    bottom: -176% !important;
+    bottom: -205% !important;
+}
+#aprendizagem-integral h1 {
+    position: absolute;
+    font-size: 15px;
+    left: 22%;
+    color: #481d73;
+    text-align: center;
 }
 #aprendizagem-integral > p {
     position: relative;
@@ -115,32 +133,34 @@ section#aprendizagem-integral {
     bottom: -36px !important;
     justify-content: flex-start;
     margin: 19px !important;
-    left: 5px !important;
+    left: 50px !important;
+    text-align: justify;
 }
 #saude-integral > img:nth-child(5) {
     position: absolute;
-    left: 59%;
+    left: 74%;
 }
 #saude-integral > img {
     position: absolute;
     align-content: center;
-    left: 35%;
-    bottom: -68%;
+    left: 50%;
+    bottom: -70%;
 }
 #saude-integral > img:nth-child(3) {
     position: absolute;
-    left: 10%;
+    left: 24%;
     bottom: -70%;
 }
 section#saude-integral {
     position: absolute;
-    bottom: -248%;
+    bottom: -284%;
 }
 #saude-integral h1 {
     position: absolute;
     font-size: 13px;
-    left: 7%;
+    left: 20%;
     color: #481d73;
+    font-weight: 700;
 }
 #saude-integral > p {
     position: relative;
@@ -148,6 +168,8 @@ section#saude-integral {
     bottom: -38px !important;
     justify-content: flex-start;
     margin: 19px;
+    text-align: justify;
+    left: 50px;
 }
 #equipe > p {
     position: relative;
@@ -155,20 +177,33 @@ section#saude-integral {
     bottom: -75px !important;
     justify-content: flex-start;
     margin: 19px;
+    text-align: justify;
+    left: 50px;
 }
 section#equipe {
     position: absolute;
-    bottom: -306%;
+    bottom: -439%;
 }
 #equipe h1 {
     position: absolute;
     font-size: 23px;
-    left: 13%;
+    left: 40%;
     color: #481d73;
+}
+section#title-equipe {
+    position: absolute;
+    bottom: -475% !important;
+}
+#title-equipe > h1 {
+    position: relative;
+    left: 16% !important;
+    color: rgb(72, 29, 115);
+    font-size: 23px !important;
+    text-align: center;
 }
 section#thiago-diniz {
     position: absolute;
-    bottom: -382%;
+    bottom: -520% !important;
 }
 #thiago-diniz > img {
     position: relative;
@@ -189,6 +224,7 @@ section#thiago-diniz {
     font-weight: 700;
     color: rgb(72, 29, 115);
     top: -30px;
+    text-align: justify;
 }
 #juliana-diniz > img {
     height: 101px;
@@ -209,5 +245,76 @@ section#thiago-diniz {
     color: rgb(72, 29, 115);
     margin: 19px;
     top: -16px;
+    text-align: justify;
 }
+
+#perflow > p {
+    font-family: 'minha-segunda-fonte';
+    text-align: justify;
+    font-size: 12px !important;
+    position: relative;
+    bottom: -24px !important;
+    color: #481d73;
+    font-weight: 700;
+    text-align: justify !important;
+    left: 50px !important;
+    margin: 0px !important; 
+}
+#perflow > h2 {
+    position: absolute;
+    font-size: 16px !important;
+    left: 20% !important;
+    top: -46px !important;
+    text-align: center !important;
+}
+#perflow > h1 {
+    font-size: 23px !important;
+    position: absolute;
+    left: 30% !important;
+    top: -30% !important;
+    color: #481d73;
+    font-family: 'minha-segunda-fonte';
+}
+section#perflow {
+    position: absolute;
+    bottom: -384% !important;
+}
+#perflow > img {
+    width: 285px !important;
+    position: relative;
+    top: 80px !important;
+    left: 80px !important;
+}
+body > article > main > footer > div:nth-child(2) {
+    position: absolute;
+    right: 7px !important;
+    top: 66% !important;
+}
+body > article > main > footer {
+    position: absolute;
+    bottom: -623% !important;
+    height: 35% !important;
+    background-color: #644285;
+    left: 0% !important;
+    width: 128% !important;
+}
+#redes > a:nth-child(1) > img {
+    position: absolute;
+    right: 0pc;
+    top: 138px;
+    height: 33px;
+}
+
+#redes > a:nth-child(3) > img {
+    position: absolute;
+    height: 25px;
+    left: 64px;
+}
+#redes > a:nth-child(2) > img {
+    left: 34px;
+    position: absolute;
+    top: 143px;
+    height: 25px;
+}
+
 }
