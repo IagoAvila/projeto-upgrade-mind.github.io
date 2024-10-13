@@ -519,7 +519,7 @@ body > header > nav > ul > a:nth-child(1):hover {
     }
     div#text-home {
     left: 50px;
-    bottom: 100px;
+    bottom: auto !important;
     font-size: 50px;
     color: #fff0ff;
     position: absolute;
