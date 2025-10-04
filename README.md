@@ -64,15 +64,4 @@ Ou acesse diretamente pelo GitHub Pages:
 **Iago Ávila Batista**
 [LinkedIn](https://linkedin.com/in/iago-ávila-batista) • [GitHub](https://github.com/IagoAvila)
 
----
 
-## 🪪 Licença
-
-Este projeto é de uso livre para fins de estudo e demonstração.
-
-```
-
----
-
-Quer que eu adicione uma pequena descrição visual (ex: print do site com preview do layout)? Posso gerar a imagem de capa automaticamente pro topo do README.
-```
